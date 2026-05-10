@@ -20,7 +20,13 @@
 <p align="center">
   <a href="https://ashlr.ai"><img src="https://img.shields.io/badge/🌐_ashlr.ai-1A2B3C?style=for-the-badge" alt="ashlr.ai"></a>
   <a href="https://github.com/ashlrai"><img src="https://img.shields.io/badge/🏢_@ashlrai-2563EB?style=for-the-badge" alt="@ashlrai"></a>
+  <a href="https://x.com/ashlar_ai"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logoColor=white" alt="X / Twitter"></a>
+  <a href="https://linkedin.com/company/ashlar-ai"><img src="https://img.shields.io/badge/in-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mason@ashlr.ai"><img src="https://img.shields.io/badge/✉_contact-6B7280?style=for-the-badge" alt="contact"></a>
+</p>
+
+<p align="center">
+  <b>🔭 Currently shipping:</b> <a href="https://github.com/ashlrai/ashlr-stack">ashlr-stack</a> · <a href="https://github.com/ashlrai/ashlr-pulse">ashlr-pulse</a> · <a href="https://github.com/ashlrai/ashlr-plugin">ashlr-plugin</a> &nbsp;•&nbsp; <b>🌱 Always learning:</b> agentic systems, vertical AI, DePIN
 </p>
 
 ---
@@ -31,7 +37,7 @@
   <tr>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/ashlrcode"><img src="./assets/logos/ashlar-mark.png" width="40" align="left" hspace="6"></a>
+        <a href="https://github.com/ashlrai/ashlrcode"><img src="./assets/logos/ashlrcode-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/ashlrcode">ashlrcode</a></b><br>
         <sub>Multi-provider AI coding agent for the terminal.</sub>
       </p>
@@ -57,7 +63,7 @@
   <tr>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/ashlr-stack"><img src="./assets/logos/ashlar-mark.png" width="40" align="left" hspace="6"></a>
+        <a href="https://github.com/ashlrai/ashlr-stack"><img src="./assets/logos/stack-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/ashlr-stack">ashlr-stack</a></b><br>
         <sub>One command to provision, wire &amp; operate your entire dev stack.</sub>
       </p>
@@ -73,7 +79,7 @@
     </td>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/ashlr-pulse"><img src="./assets/logos/ashlar-mark.png" width="40" align="left" hspace="6"></a>
+        <a href="https://github.com/ashlrai/ashlr-pulse"><img src="./assets/logos/pulse-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/ashlr-pulse">ashlr-pulse</a></b><br>
         <sub>Mission control for agentic-engineering teams. Peer-visible.</sub>
       </p>
@@ -91,7 +97,7 @@
     </td>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/idle"><img src="./assets/logos/ashlar-mark.png" width="40" align="left" hspace="6"></a>
+        <a href="https://github.com/ashlrai/idle"><img src="./assets/logos/idle-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/idle">idle</a></b><br>
         <sub>DePIN orchestrator menu-bar app for macOS passive earnings.</sub>
       </p>
@@ -109,7 +115,7 @@
   <tr>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/ashlr-workbench"><img src="./assets/logos/ashlar-mark.png" width="40" align="left" hspace="6"></a>
+        <a href="https://github.com/ashlrai/ashlr-workbench"><img src="./assets/logos/workbench-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/ashlr-workbench">ashlr-workbench</a></b><br>
         <sub>Local agent workbench: OpenHands + Goose + Aider + ashlrcode.</sub>
       </p>
@@ -124,7 +130,7 @@
     </td>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/ashlr-core-efficiency"><img src="./assets/logos/ashlar-mark.png" width="40" align="left" hspace="6"></a>
+        <a href="https://github.com/ashlrai/ashlr-core-efficiency"><img src="./assets/logos/core-efficiency-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/ashlr-core-efficiency">core-efficiency</a></b><br>
         <sub>Token-efficiency primitives that power <code>ashlr-plugin</code>.</sub>
       </p>
@@ -253,6 +259,9 @@
 
 ---
 
+<p align="center">
+  <a href="https://maswy.com"><img src="./assets/screenshots/maswy.png" width="180" alt="maswy.com — personal site"></a>
+</p>
 <p align="center">
   <sub>Also at <a href="https://maswy.com">maswy.com</a> 👀 · ©&nbsp;2026 AshlrAI, Inc.</sub>
 </p>
