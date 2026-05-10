@@ -20,8 +20,14 @@
 <p align="center">
   <a href="https://ashlr.ai"><img src="https://img.shields.io/badge/🌐_ashlr.ai-1A2B3C?style=for-the-badge" alt="ashlr.ai"></a>
   <a href="https://github.com/ashlrai"><img src="https://img.shields.io/badge/🏢_@ashlrai-2563EB?style=for-the-badge" alt="@ashlrai"></a>
-  <a href="https://linkedin.com/company/ashlrai"><img src="https://img.shields.io/badge/in-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mason@ashlr.ai"><img src="https://img.shields.io/badge/✉_contact-6B7280?style=for-the-badge" alt="contact"></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/masonwyatt23"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logoColor=white" alt="@masonwyatt23"></a>
+  <a href="https://www.linkedin.com/in/mason-wyatt-932400201/"><img src="https://img.shields.io/badge/in-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/mason.wyatt.23"><img src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logoColor=white" alt="Instagram"></a>
+  <a href="https://substack.com/@ashlr"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logoColor=white" alt="Substack"></a>
 </p>
 
 <p align="center">
