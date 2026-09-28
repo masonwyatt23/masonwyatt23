@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <b>🔭 Currently shipping:</b> <a href="https://github.com/ashlrai/ashlr-stack">ashlr-stack</a> · <a href="https://github.com/ashlrai/ashlr-pulse">ashlr-pulse</a> · <a href="https://github.com/ashlrai/ashlr-plugin">ashlr-plugin</a> &nbsp;•&nbsp; <b>🌱 Always learning:</b> agentic systems, vertical AI, DePIN
+  <b>🔭 Currently shipping:</b> <a href="https://github.com/ashlrai/ashlr-hub">ashlr-hub</a> · <a href="https://github.com/ashlrai/phantom-secrets">phantom-secrets</a> · <a href="https://github.com/ashlrai/lexicon">lexicon</a> · <a href="https://github.com/ashlrai/ashlr-md">ashlr-md</a> · <a href="https://github.com/ashlrai/locus">locus</a> · <a href="https://github.com/ashlrai/runbook-control-plane">runbook</a> &nbsp;•&nbsp; <b>🌱 Always learning:</b> agentic systems, vertical AI, DePIN
 </p>
 
 ---
@@ -72,13 +72,13 @@
         <b><a href="https://github.com/ashlrai/ashlr-stack">ashlr-stack</a></b><br>
         <sub>One command to provision, wire &amp; operate your entire dev stack.</sub>
       </p>
-      <pre><code>brew install ashlrai/ashlr/stack</code></pre>
+      <pre><code>curl -fsSL stack.ashlr.ai/install.sh | bash</code></pre>
     </td>
     <td width="33%" valign="top" align="left">
       <p>
         <a href="https://github.com/ashlrai/webfetch"><img src="./assets/logos/webfetch-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/webfetch">webfetch</a></b><br>
-        <sub>License-first image search across 24 providers, MCP-native.</sub>
+        <sub>License-first image search across 25 providers, MCP-native.</sub>
       </p>
       <pre><code>npm i -g getwebfetch</code></pre>
     </td>
@@ -102,19 +102,18 @@
     </td>
     <td width="33%" valign="top" align="left">
       <p>
-        <a href="https://github.com/ashlrai/idle"><img src="./assets/logos/idle-logo.svg" width="40" align="left" hspace="6"></a>
-        <b><a href="https://github.com/ashlrai/idle">idle</a></b><br>
-        <sub>DePIN orchestrator menu-bar app for macOS passive earnings.</sub>
+        <b><a href="https://github.com/ashlrai/lexicon">lexicon</a></b><br>
+        <sub>One YAML of the words speech-to-text gets wrong, fixed before your agent sees the prompt.</sub>
       </p>
-      <pre><code>brew install --cask ashlrai/idle/idle</code></pre>
+      <pre><code>brew install ashlrai/tap/lexicon</code></pre>
     </td>
     <td width="33%" valign="top" align="left">
       <p>
         <a href="https://github.com/ashlrai/binshield"><img src="./assets/logos/binshield-logo.svg" width="40" align="left" hspace="6"></a>
         <b><a href="https://github.com/ashlrai/binshield">binshield</a></b><br>
-        <sub>Snyk for binaries. Ghidra + AI + YARA for npm supply-chain risk.</sub>
+        <sub>Catch malicious install scripts and native binaries in npm deps. Ghidra + YARA + AI.</sub>
       </p>
-      <pre><code>pnpm add -D binshield</code></pre>
+      <pre><code>uses: ashlrai/binshield/apps/github-action@v1</code></pre>
     </td>
   </tr>
   <tr>
@@ -195,7 +194,53 @@
 
 ---
 
-<h2 align="center">📚 AI Encyclopedias</h2>
+<h2 align="center">🧪 Experiments</h2>
+
+<p align="center"><sub>Side projects and experiments, outside the core @ashlrai tools.</sub></p>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://chad.ashlr.ai"><img src="./assets/screenshots/chad.png" width="100%" alt="Chad Optimizer"></a><br>
+      <b><a href="https://chad.ashlr.ai">Chad Optimizer</a></b><br>
+      <sub>Arena Breakout Infinite full-kit loadout optimizer. Stop getting Timmy'd.</sub><br>
+      <code>chad.ashlr.ai</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://golf.ashlr.ai"><img src="./assets/screenshots/golf.png" width="100%" alt="Ashlr Golf OS"></a><br>
+      <b><a href="https://golf.ashlr.ai">Ashlr Golf OS</a></b><br>
+      <sub>The operating system every country club has been waiting for.</sub><br>
+      <code>golf.ashlr.ai</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://pellucid.ashlr.ai"><img src="./assets/screenshots/pellucid.png" width="100%" alt="Pellucid"></a><br>
+      <b><a href="https://pellucid.ashlr.ai">Pellucid</a></b><br>
+      <sub>The clarity layer for high-stakes writing — make ambiguity visible.</sub><br>
+      <code>pellucid.ashlr.ai</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://timeline.ashlr.ai"><img src="./assets/screenshots/timeline.png" width="100%" alt="Ashlr Timeline"></a><br>
+      <b><a href="https://timeline.ashlr.ai">Ashlr Timeline</a></b><br>
+      <sub>Your company's memory, made spatial. Meetings, decisions &amp; risk in 3D.</sub><br>
+      <code>timeline.ashlr.ai</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://stargaze.ashlr.ai"><img src="./assets/screenshots/stargaze.png" width="100%" alt="Stargaze"></a><br>
+      <b><a href="https://stargaze.ashlr.ai">Stargaze</a></b><br>
+      <sub>Tinder for indie GitHub projects — swipe right to star &amp; back makers.</sub><br>
+      <code>stargaze.ashlr.ai</code>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b><a href="https://github.com/ashlrai/idle">idle</a></b><br>
+      <sub>DePIN orchestrator menu-bar app for macOS.</sub><br>
+      <code>brew install --cask ashlrai/idle/idle</code>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">📚 AI Encyclopedias</h3>
 
 <p align="center"><sub>Definitive, AI-augmented reference sites for the people who matter.</sub></p>
 
@@ -236,46 +281,6 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">🎲 Other Projects</h2>
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://chad.ashlr.ai"><img src="./assets/screenshots/chad.png" width="100%" alt="Chad Optimizer"></a><br>
-      <b><a href="https://chad.ashlr.ai">Chad Optimizer</a></b><br>
-      <sub>Arena Breakout Infinite full-kit loadout optimizer. Stop getting Timmy'd.</sub><br>
-      <code>chad.ashlr.ai</code>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://golf.ashlr.ai"><img src="./assets/screenshots/golf.png" width="100%" alt="Ashlr Golf OS"></a><br>
-      <b><a href="https://golf.ashlr.ai">Ashlr Golf OS</a></b><br>
-      <sub>The operating system every country club has been waiting for.</sub><br>
-      <code>golf.ashlr.ai</code>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://pellucid.ashlr.ai"><img src="./assets/screenshots/pellucid.png" width="100%" alt="Pellucid"></a><br>
-      <b><a href="https://pellucid.ashlr.ai">Pellucid</a></b><br>
-      <sub>The clarity layer for high-stakes writing — make ambiguity visible.</sub><br>
-      <code>pellucid.ashlr.ai</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://timeline.ashlr.ai"><img src="./assets/screenshots/timeline.png" width="100%" alt="Ashlr Timeline"></a><br>
-      <b><a href="https://timeline.ashlr.ai">Ashlr Timeline</a></b><br>
-      <sub>Your company's memory, made spatial. Meetings, decisions &amp; risk in 3D.</sub><br>
-      <code>timeline.ashlr.ai</code>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://stargaze.ashlr.ai"><img src="./assets/screenshots/stargaze.png" width="100%" alt="Stargaze"></a><br>
-      <b><a href="https://stargaze.ashlr.ai">Stargaze</a></b><br>
-      <sub>Tinder for indie GitHub projects — swipe right to star &amp; back makers.</sub><br>
-      <code>stargaze.ashlr.ai</code>
-    </td>
-  </tr>
-</table>
 
 ---
 
