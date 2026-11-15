@@ -55,7 +55,7 @@ Each tool can stand on its own. Together, they give the workbench more of the co
 
 | Project | Part of the system | Repository |
 |---|---|---|
-| **Phantom** | Workbench for agent sessions, local models, project workflows, review, and guarded fleet work. | [ashlrai/phantom](https://github.com/ashlrai/phantom) |
+| **Phantom** | Autonomous engineering fleet + workbench: shared queues route work across agent accounts, local models, and remote machines; agents collaborate over a bus; merges and releases run themselves. | [ashlrai/phantom](https://github.com/ashlrai/phantom) |
 | **Phantom Secrets** | Local vault, proxy, and MCP tools; supported routes keep managed credentials out of agent context. | [phantom-secrets](https://github.com/ashlrai/phantom-secrets) |
 | **Locus** | Identity plane that pins an agent session to the intended account and tenant. | [locus](https://github.com/ashlrai/locus) |
 | **Lexicon** | Personal vocabulary that corrects speech-to-text names and technical terms before an agent sees them. | [lexicon](https://github.com/ashlrai/lexicon) |
